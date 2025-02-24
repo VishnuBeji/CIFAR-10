@@ -1,4 +1,4 @@
 # CIFAR-10
 Startup code
 
-Link to download: [Here](https://raw.githubusercontent.com/VishnuBeji/CIFAR-10/main/startup_notebook.ipynb)
+Link to download: [Here](https://VishnuBeji.github.io/CIFAR-10/startup_notebook.ipynb)
